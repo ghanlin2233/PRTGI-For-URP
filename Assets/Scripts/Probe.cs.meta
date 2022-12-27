@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 05c1386b2dcc95547b545eefe1a961a1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - RT_WorldPos: {instanceID: 0}
+  - RT_Normal: {instanceID: 0}
+  - RT_Albedo: {instanceID: 0}
+  - surfelSampleCS: {instanceID: 0}
+  - surfelRadianceCS: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
